@@ -1,0 +1,77 @@
+body {
+    background-color: rgb(1, 1, 34);
+    color: white;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    text-shadow: 2px 2px 5px #f6f8fa;
+}
+.container {
+    margin-top: 100px;
+    padding: 25px;
+    background-color: #050505;
+    border-radius: 20px;
+    box-shadow: rgba(255, 255, 255, 0.2) 0px 5px 15px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    text-shadow: 2px 2px 5px #f6f8fa;
+    border-radius: 10px;
+    box-shadow: rgba(18, 15, 15, 0.729) 0px 54px 55px,
+                rgba(41, 63, 67, 0.666) 0px -7px 20px,
+                rgba(166, 82, 71, 0.903) 0px 7px 10px, 
+                rgba(227, 214, 214, 0.384) 0px 5px 8px, 
+                rgba(131, 131, 202, 0.882) 0px -7px 5px;
+}
+input[type="file"] {
+    margin-top: 20px;
+    background-color: #0c0c0d;
+    color: white;
+    text-shadow: 2px 2px 5px #f6f8fa;
+    border-radius: 10px;
+    margin-right: 15px;
+
+}
+button {
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: #0a0a0b;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    border-radius: 4px;
+    width: 20%;
+    justify-content: center;
+    align-items: center;
+    position: center;
+    text-shadow: 2px 2px 5px #f6f8fa;
+    border-radius: 10px;
+    box-shadow: rgba(18, 15, 15, 0.729) 0px 54px 55px,
+                rgba(41, 63, 67, 0.666) 0px -5px 20px,
+                rgba(166, 82, 71, 0.903) 0px 4px 6px, 
+                rgba(227, 214, 214, 0.384) 0px 5px 8px, 
+                rgba(131, 131, 202, 0.882) 0px -3px 5px;
+}
+button:hover {
+    background-color: #080808;
+    color: white;
+    touch-action: pinch-zoom;
+}
+video {
+    margin-top: 20px;
+    width: 100%;
+    border-radius: 15px;
+    box-shadow: rgba(18, 15, 15, 0.729) 0px 54px 55px,
+                rgba(41, 63, 67, 0.666) 0px -5px 20px,
+                rgba(166, 82, 71, 0.903) 0px 4px 6px, 
+                rgba(227, 214, 214, 0.384) 0px 5px 8px, 
+                rgba(131, 131, 202, 0.882) 0px -3px 5px;
+}
+iframe{
+    border-radius: 27px;
+    box-shadow: rgba(18, 15, 15, 0.729) 0px 54px 55px,
+                rgba(41, 63, 67, 0.666) 0px -5px 20px,
+                rgba(166, 82, 71, 0.903) 0px 4px 6px, 
+                rgba(227, 214, 214, 0.384) 0px 5px 8px, 
+                rgba(131, 131, 202, 0.882) 0px -3px 5px;
+}
